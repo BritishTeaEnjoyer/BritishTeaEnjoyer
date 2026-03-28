@@ -6,7 +6,7 @@ Crypto price tracking
 Python with PyCoinGecko
 <br><br>
 🤝 I am looking for help with:<br>
-Requiring footage to feed to my AI</h2>
+Ideas of additions to my system</h2>
 
 ###
 
