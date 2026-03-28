@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋! I'm Callum<br> <br>👷‍♂️ I’m currently working on: <br> 
-My own personal AI model
+Crypto price tracking
 <br><br>
 👨‍💻 The language I am currently working in:
 <br>
-Python with Google’s Gemini AI
+Python with PyCoinGecko
 <br><br>
 🤝 I am looking for help with:<br>
 Requiring footage to feed to my AI</h2>
